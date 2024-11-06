@@ -1,6 +1,8 @@
 # -SM2_EXAMEN_PRACTICO
 Prueba de Examen Practico
 
+Las imagenes estan dentro del git.
+
 Titulo: 
 App de gestión de Inventario y Elaboración de Informes Técnicos
 
@@ -29,7 +31,7 @@ Valor: 7
 Prioridad: 6 
 Estimación: 4 días 
 
-Enlace de github:
+Enlace de github: https://github.com/WhiteFall20/-SM2_EXAMEN_PRACTICO.git
 
 El desarrollo de la aplicación se realizó principalmente en Java, utilizando Android Studio como entorno de desarrollo. Para la gestión de datos y autenticación, se utilizaron los servicios de Firebase, incluyendo Firebase Database y Firebase Authentication.
 
