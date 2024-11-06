@@ -21,6 +21,9 @@ Valor: 8
 Prioridad: 5 
 Estimación: 5 días 
 
+![image](https://github.com/user-attachments/assets/dcd8b2c8-acf8-4465-ad1b-01f276951dd7)
+
+
 
 Historia de Usuario #6 
 
@@ -30,6 +33,10 @@ Criterio de Validación: Los tipos de equipos se pueden crear, editar y eliminar
 Valor: 7 
 Prioridad: 6 
 Estimación: 4 días 
+
+![CRUD_TIPO_EQUIPO](https://github.com/user-attachments/assets/137262ef-517e-4a6d-98f0-3cd5ef3e191d)
+
+
 
 Enlace de github: https://github.com/WhiteFall20/-SM2_EXAMEN_PRACTICO.git
 
